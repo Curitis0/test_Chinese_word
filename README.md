@@ -1,0 +1,1 @@
+test_Chinese_word

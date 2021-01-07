@@ -1,0 +1,2 @@
+C:\Users\Curitis\Desktop\ChineseWordTest\test_Chinese_word\ChineseWordTest\Debug\ChineseWordTest.exe
+C:\Users\Curitis\Desktop\ChineseWordTest\test_Chinese_word\ChineseWordTest\Debug\ChineseWordTest.pdb
